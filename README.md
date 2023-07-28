@@ -1,6 +1,6 @@
 ### Hello! My name is Dmitry and I am Frontend Developer 👋
 
-At the moment, I work for *SlidePresenter* and study at *Hexlet*.
+At the moment, I work at [SlidePresenter](https://www.slidepresenter.com/en/) and study at [Hexlet](https://ru.hexlet.io/).
 
 <!--
 **Ingo-o/Ingo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
